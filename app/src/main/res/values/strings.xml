@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CS3270A3 Heath</string>
+    <string name="my_pick">My Pick:</string>
+    <string name="rock">Rock</string>
+    <string name="paper">Paper</string>
+    <string name="scissors">Scissors</string>
+    <string name="rock_paper_scissors">Rock, Paper, Scissors</string>
+    <string name="by_kyle_heath">By Kyle Heath</string>
+    <string name="phone_pick">Phone Pick:</string>
+    <string name="my_win_count">My Win Count:</string>
+    <string name="phone_win_count">Phone Win Count:</string>
+    <string name="games_played">Games Played:</string>
+    <string name="tie_games">Tie Games:</string>
+    <string name="reset_counts">Reset Counts</string>
+    <string name="rock_paper_scissors_nby_kyle_heath">Rock, Paper, Scissors \nBy Kyle Heath</string>
+    <string name="winner">Winner:</string>
+    <string name="gamesplayedtotal">gamesPlayedTotal</string>
+    <string name="phonewinscore">phoneWinScore</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>
